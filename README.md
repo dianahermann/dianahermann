@@ -1,4 +1,3 @@
-<p align="center"><img src="https://s11.gifyu.com/images/SoFGZ.gif" width="500"></p>
 <h1 align="center" style="color : aqua">👋 Hi there, I'm Diana.</h1>
 
 
